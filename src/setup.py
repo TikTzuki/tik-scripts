@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 NAME = "tik-scripts"
-VERSION = "0.0.12"
+VERSION = "0.0.7"
 REQUIRES = [
     "loguru>=0.5.3",
     "orjson>=3.5.4"
