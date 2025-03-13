@@ -68,7 +68,7 @@ obj/
 
 log.txt
 
-setup.cfg
+src/setup.cfg
 .pre-commit-config.yaml
 
 # ignore document

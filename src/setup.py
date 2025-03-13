@@ -15,7 +15,7 @@ setup(
     license="MIT",
     author="TikTuzki",
     author_email="tiktuzki@gmail.com",
-    packages=find_packages(".", include=["src*"]),
+    packages=find_packages("..", include=["tik_scripts*"]),
     package_dir={"": "."},
     url="https://github.com/TikTzuki/tik-scripts",
     keywords=["Tik", "Script", "Utility"],
