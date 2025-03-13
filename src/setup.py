@@ -3,8 +3,7 @@ from setuptools import setup, find_packages
 NAME = "tik-scripts"
 VERSION = "0.0.12"
 REQUIRES = [
-    "fastapi>=0.65.2"
-    "loguru>=0.5.3"
+    "loguru>=0.5.3",
     "orjson>=3.5.4"
 ]
 LONG_DESCRIPTION = open("README.md", "r").read()
